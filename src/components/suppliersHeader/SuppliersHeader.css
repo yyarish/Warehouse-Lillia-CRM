@@ -1,0 +1,14 @@
+.supplier_header{
+   display: flex;
+}
+.supplier_title {
+   display: flex;
+   font-size: 50px;
+   margin-left: 50%;
+
+}
+.supplier_link {
+   display: flex;
+   font-size: 24px;
+   margin-left: 200px;
+}

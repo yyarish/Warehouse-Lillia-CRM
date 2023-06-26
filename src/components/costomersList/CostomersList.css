@@ -1,0 +1,59 @@
+.coctomerList_container {
+   display: flex;
+   width: 200px;
+   display: flex;
+   flex-direction: column;
+   align-items: flex-start;
+   background-color: rgb(241, 212, 45)
+}
+
+.coctomerList_container>*:first-child {
+   align-self: stretch;
+}
+
+
+/* .costomers_form {
+   display: flex;
+} */
+
+ul {
+   /* display: block;
+   list-style-type: disc;
+   margin-block-start: 1em;
+   margin-block-end: 1em;
+   margin-inline-start: 0px;
+   margin-inline-end: 0px;
+   padding-inline-start: 40px; */
+}
+/* .bg-gradient {
+   background-image: var(--bs-gradient) !important;
+}
+.bg-success {
+   --bs-bg-opacity: 1;
+   background-color: rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important;
+}
+
+.text-white {
+   --bs-text-opacity: 1;
+   color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
+}
+
+.flex-row {
+   flex-direction: row !important;
+}
+
+.shadow-lg {
+   box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+}
+
+.card {
+   position: relative; 
+   display: flex;
+   /* flex-direction: column; */
+   /* min-width: 0;
+   word-wrap: break-word;
+   background-color: #fff;
+   background-clip: border-box;
+   border: 1px solid rgba(0, 0, 0, 0.125);
+   border-radius: 0.25rem;
+} */ 

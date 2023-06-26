@@ -1,0 +1,8 @@
+.header_conrtent {
+   display: flex;
+   background-color: rgb(241, 212, 45);
+}
+.main_content {
+   display: flex;
+   flex-direction: row;
+}

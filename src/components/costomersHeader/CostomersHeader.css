@@ -1,0 +1,14 @@
+.costomer_header{
+   display: flex;
+}
+.header_title {
+   display: flex;
+   font-size: 60px;
+   margin-left: 50%;
+
+}
+.header_link {
+   display: flex;
+   font-size: 24px;
+   margin-left: 200px;
+}
